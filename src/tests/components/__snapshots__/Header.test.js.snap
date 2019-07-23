@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Header 1`] = `
+<header>
+  <Link
+    replace={false}
+    to="/dashboard"
+  >
+    <h1>
+      Boilerplate
+    </h1>
+  </Link>
+  <button
+    onClick={[Function]}
+  >
+    Logout
+  </button>
+</header>
+`;
